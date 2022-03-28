@@ -1,8 +1,10 @@
 # Portfolio 1º trimestre 2º ano do ensino médio
 
+<img src="eu.jpeg" width="250">
+
 eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio com curso tecnico integrado, a função desse diretorio é somente conter as atividades da parte de TI. Para acessar o portfólio do ensino médio padrão estará no link abaixo
 
-![](eu.jpeg=200x200)
+[Portfólio](https://sites.google.com/view/portfolio-joao-paulo-broering/in%C3%ADcio)
 
 ### Este é o portfólio referente ao período do 1º trimestre do 2º ano do ensino médio que contém:
 * Principais atividades para desenvolvimento pessoal
