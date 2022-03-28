@@ -1,2 +1,10 @@
-# Portfolio_2B_1T
-Este é o portfólio referente ao período do 1º trimestre do 2º ano do ensino médio
+# Portfolio 1º trimestre 2º ano do ensino médio
+
+eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio com curso tecnico integrado, a função desse diretorio é somente conter as atividades da parte de TI. Para acessar o portfólio do ensino médio padrão estará no link abaixo
+
+![](eu.jpeg=200x200)
+
+### Este é o portfólio referente ao período do 1º trimestre do 2º ano do ensino médio que contém:
+* Principais atividades para desenvolvimento pessoal
+* Documentos explicando como foi o processo de desenvolvimento das atividades
+* Processos a parte das atividades propostas da escola
