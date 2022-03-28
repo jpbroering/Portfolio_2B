@@ -1,4 +1,4 @@
-# Portfolio 1º trimestre 2º ano do ensino médio
+# Portfolio do 2º ano do ensino médio
 
 <img src="eu.jpeg" width="250">
 
