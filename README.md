@@ -1,6 +1,6 @@
 # Portfolio do 2º ano do ensino médio
 <p align="center">
- <img src="eu.jpeg" width="250">
+ <img src="eu.jpeg1" width="250">
 </p>
 eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio com curso tecnico integrado, a função desse diretorio é somente conter as atividades da parte de TI. Para acessar o portfólio do ensino médio padrão clique na imagem acima
 
