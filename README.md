@@ -13,3 +13,22 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 * Documentos explicando como foi o processo de desenvolvimento das atividades
 * Processos a parte das atividades propostas da escola
 
+#### atividade de design - site sobre suits
+
+<p align="center">
+ <img src="imagens/Suits site.png" width="750">
+</p>
+<p align="center">
+  Esta atividade foi colocado no portfólio pela questão do nivel que trabalhei nela, achei muito interessante todas as conecções entre paginas deixando o trabalho vivo e funcional, como se fosse um site realmente. baixe a imagem para conseguir visualizar melhor
+</p>
+
+#### atividade de logica de programação - netbeans
+
+<p align="center">
+  Eu coloquei esta atividade por mexermos com um novo programa e ter uma liberdade para mexer nas JOption.Pane, com popups e etc, também por começarmos a mexer em uma IDE
+</p>
+<p align="center">
+ <a href="fundamento_de_ti/JOptionPane.java"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### atividade
