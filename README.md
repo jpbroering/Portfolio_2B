@@ -16,7 +16,7 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 #### atividade de design - site sobre suits
 
 <p align="center">
- <img src="imagens/Suits site.png" width="750">
+ <img src="design/Suits site.png" width="750">
 </p>
 <p align="center">
   Esta atividade foi colocado no portfólio pela questão do nivel que trabalhei nela, achei muito interessante todas as conecções entre paginas deixando o trabalho vivo e funcional, como se fosse um site realmente. baixe a imagem para conseguir visualizar melhor
@@ -28,7 +28,15 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
   Eu coloquei esta atividade por mexermos com um novo programa e ter uma liberdade para mexer nas JOption.Pane, com popups e etc, também por começarmos a mexer em uma IDE
 </p>
 <p align="center">
- <a href="fundamento_de_ti/JOptionPane.java"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="fundamento_de_ti/reviso.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
-#### atividade
+#### resumo dos fundamentos de TI
+
+<p align="center">
+ Eu coloquei esse resumo pois vai me ajudar muito a fixar o conteudo inicial e contêm muito do que ele explicou e algumas definições de comandos, coloquei como pdf
+</p>
+<p align="center">
+ <a href="fundamento_de_ti/Reviso.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
