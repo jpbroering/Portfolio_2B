@@ -28,7 +28,7 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
   Eu coloquei esta atividade por mexermos com um novo programa e ter uma liberdade para mexer nas JOption.Pane, com popups e etc, também por começarmos a mexer em uma IDE
 </p>
 <p align="center">
- <a href="fundamento_de_ti/reviso.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="fundamento_de_ti/JOptionPane.java"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### resumo dos fundamentos de TI
