@@ -79,7 +79,10 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
   Esta atividade foi colocado no portfólio por ser basicamente tudo que aprendemos com a ativida
 </p>
 <p align="center">
- <a href="Fundamentos_de_redes/trabalho.pkt"><img src="imagens/Clique aqui.png" width="125"></a>
+ <img src="Fundamento_de_dados/restaurante.png" width="500">
+</p>
+<p align="center">
+ <a href="Fundamentos_de_redes/atvdd_restaurante.docx"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### atividade de logica de programação - netbeans Registro academia
@@ -91,11 +94,11 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
  <a href="logica_computacional/academiacadastro.zip"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
-#### fundamentos de Dados - Atividade Shellscript
+#### Logica de programação - Atividade cadastra aluno
 
 <p align="center">
  Este a atividade do linux quando começamos a mexer com loops, fazendo coisas basicas, escolhi ela por ter sido divertido, coloquei como pdf
 </p>
 <p align="center">
- <a href="fundamento_de_ti/shellscript.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="logica_computacional/cadastraaluno.zip"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
