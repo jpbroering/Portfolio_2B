@@ -85,10 +85,10 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 #### atividade de logica de programação - netbeans Registro academia
 
 <p align="center">
-  Esta atividade foi colocada por ser uma "atualização" de uma atividade do inicio do ano, tendo que adapta-la para o net beans
+  Esta atividade foi colocada por ser a pratica da orientação com objetose por envolver o projeto da academia
 </p>
 <p align="center">
- <a href="logica_computacional/academiacadastro"><img src="imagens/Clique aqui.png" width="125"></a>
+ <a href="logica_computacional/academiacadastro.zip"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
 #### fundamentos de Dados - Atividade Shellscript
