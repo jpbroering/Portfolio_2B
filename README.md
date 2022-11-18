@@ -73,10 +73,10 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 
 ### 3º Trimestre
 
-#### atividade de redes - Primeira vez usando o Cisco Packed Trader
+#### atividade de banco de dados - Chave Estrangeira e Manipulação de dados
 
 <p align="center">
-  Esta atividade foi colocado no portfólio por ser a primeira vez que mexemos com ele, achei muito interessante a montagem da rede
+  Esta atividade foi colocado no portfólio por ser basicamente tudo que aprendemos com a ativida
 </p>
 <p align="center">
  <a href="Fundamentos_de_redes/trabalho.pkt"><img src="imagens/Clique aqui.png" width="125"></a>
