@@ -73,10 +73,16 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 
 ### 3º Trimestre
 
-#### atividade de banco de dados - Chave Estrangeira e Manipulação de dados
+As autorias estão em autorias dos banco de dados, é o mesmo, pois são dois atividades de mundo senai, está abaixo
 
 <p align="center">
-  Esta atividade foi colocado no portfólio por ser basicamente tudo que aprendemos com a ativida
+ <img src="Fundamento_de_dados/autorias/autorias.md" width="500">
+</p>
+
+#### atividades de banco de dados
+##### Chave Estrangeira e Manipulação de dados
+<p align="center">
+  Esta atividade foi colocado no portfólio por ser basicamente tudo que aprendemos com a atividade com banco de dados
 </p>
 <p align="center">
  <img src="Fundamento_de_dados/restaurante.png" width="500">
@@ -84,20 +90,45 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
 <p align="center">
  <a href="Fundamentos_de_redes/atvdd_restaurante.docx"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
+#####
+<p align="center">
+  Esta atividade foi colocado no portfólio por ser basicamente tudo que aprendemos com banco de dados tambem
+</p>
 
-#### atividade de logica de programação - netbeans Registro academia
+<p align="center">
+ <a href="Fundamentos_de_redes/Atividade_banco_de_dados.docx"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
 
+#### atividades de redes
+##### Qualidade do sinal Wi-Fi
+<p align="center">
+  Esta atividade foi colocado no portfólio por ser a atividade final do trimestre ela e sua continuação
+</p>
+
+<p align="center">
+ <a href="https://www.figma.com/file/MANPAwQulRAsLwpqJvg6mG/Untitled?node-id=0%3A1&t=nFV6G4j9CtkG7wDZ-1"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+##### Qualidade do sinal Wi-Fi
+<p align="center">
+  Esta atividade foi colocado no portfólio por ser a atividade final do trimestre, que era tranformar a atividade da qualidade de sinal em grafico em grafico
+</p>
+
+<p align="center">
+ <a href="Gráfico_de_Superfície.docx"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### atividades de logica de programação
+##### netbeans Registro academia
 <p align="center">
   Esta atividade foi colocada por ser a pratica da orientação com objetose por envolver o projeto da academia
 </p>
 <p align="center">
  <a href="logica_computacional/academiacadastro.zip"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
-
-#### Logica de programação - Atividade cadastra aluno
-
+##### Orientação a objetos - cadastra aluno
 <p align="center">
- Este a atividade do linux quando começamos a mexer com loops, fazendo coisas basicas, escolhi ela por ter sido divertido, coloquei como pdf
+ Este a atividade foi colocada pois o professor pediu
 </p>
 <p align="center">
  <a href="logica_computacional/cadastraaluno.zip"><img src="imagens/Clique aqui.png" width="125"></a>
