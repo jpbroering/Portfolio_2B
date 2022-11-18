@@ -42,6 +42,34 @@ eu nome é João Paulo Broering tenho 15 anos e estou cursando o ensino médio c
  <a href="fundamento_de_ti/Reviso.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
 </p>
 
+### 3º Trimestre
+
+#### atividade de redes - Primeira vez usando o Cisco Packed Trader
+
+<p align="center">
+  Esta atividade foi colocado no portfólio por ser a primeira vez que mexemos com ele, achei muito interessante a montagem da rede
+</p>
+<p align="center">
+ <a href="Fundamentos_de_redes/trabalho.pkt"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### atividade de logica de programação - netbeans atividade for
+
+<p align="center">
+  Esta atividade foi colocada por ser uma "atualização" de uma atividade do inicio do ano, tendo que adapta-la para o net beans
+</p>
+<p align="center">
+ <a href="logica_computacional/atvdd_for.zip"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
+
+#### fundamentos de TI - Atividade Shellscript
+
+<p align="center">
+ Este a atividade do linux quando começamos a mexer com loops, fazendo coisas basicas, escolhi ela por ter sido divertido, coloquei como pdf
+</p>
+<p align="center">
+ <a href="fundamento_de_ti/shellscript.pdf"><img src="imagens/Clique aqui.png" width="125"></a>
+</p>
 ### 2º Trimestre
 
 #### atividade de redes - Primeira vez usando o Cisco Packed Trader
